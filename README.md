@@ -1,16 +1,7 @@
-# flutter_shop_app
+# Flutter Shop App
 
-A new Flutter application.
+![music](https://user-images.githubusercontent.com/23746859/92704937-a65d5580-f396-11ea-80df-15d639b6b29f.gif)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/23746859/92704933-a52c2880-f396-11ea-98d5-3fd4bddf3a7a.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the design : https://dribbble.com/shots/7114349-Shop-App/attachments/117094?mode=media
